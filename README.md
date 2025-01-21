@@ -1,6 +1,6 @@
 # Vue.js Project
 
-This is a Vue.js project using TypeScript and Vite. Follow the instructions below to set up and run the project locally.
+This is a fake product catalog Vue.js project using TypeScript and Vite. Follow the instructions below to set up and run the project locally.
 
 ## Prerequisites
 

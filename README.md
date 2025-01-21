@@ -1,6 +1,7 @@
 # Vue.js Project
 
 This is a fake product catalog Vue.js project using TypeScript and Vite. Follow the instructions below to set up and run the project locally.
+I have deployed the project on vercel, here you can check it out live: https://ecomm-mu-eight.vercel.app/
 
 ## Prerequisites
 

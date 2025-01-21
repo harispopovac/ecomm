@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import ProductList from './components/ProductList.vue'
-</script>
-
 <template>
   <v-app>
     <v-app-bar color="primary">
@@ -15,4 +11,10 @@ import ProductList from './components/ProductList.vue'
     </v-main>
   </v-app>
 </template>
+
+<script setup lang="ts">
+import ProductList from './components/ProductList.vue'
+</script>
+
+
 

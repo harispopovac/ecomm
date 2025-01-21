@@ -32,7 +32,7 @@
 </template>
 
 <script setup lang="ts">
-import type { Product, ViewMode } from '@/types/product';
+import type { Product, ViewMode } from '../types/product';
 
 interface Props {
     product: Product;

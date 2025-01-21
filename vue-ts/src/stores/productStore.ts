@@ -1,6 +1,6 @@
 import { defineStore } from 'pinia';
 import { ref, computed } from 'vue';
-import type { Product, State, ViewMode, SortDirection, SortBy } from '@/types/product';
+import type { Product, State, ViewMode, SortDirection, SortBy } from '../types/product';
 
 export const useProductStore = defineStore('products', () => {
     const products = ref<State['products']>([]);

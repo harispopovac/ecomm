@@ -105,9 +105,9 @@
 
 <script setup lang="ts">
 import { onMounted, ref, computed, watch } from 'vue'
-import { useProductStore } from '@/stores/productStore'
-import ProductCard from '@/components/ProductCard.vue'
-import type { CategoryOption } from '@/types/product'
+import { useProductStore } from '../stores/productStore'
+import ProductCard from '../components/ProductCard.vue'
+import type { CategoryOption } from '../types/product'
 
 const store = useProductStore()
 const selectedCategory = ref<string>('')

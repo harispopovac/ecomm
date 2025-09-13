@@ -46,3 +46,6 @@ Before you begin, ensure you have met the following requirements:
 2. **Open your browser**:
 
    Open your web browser and go to the URL provided by the Vite server, typically `http://localhost:3000`.
+
+test
+
